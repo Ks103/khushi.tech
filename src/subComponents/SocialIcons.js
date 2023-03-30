@@ -12,7 +12,7 @@ const Icons = styled.div`
 
   position: fixed;
   bottom: 0;
-  left: 2rem;
+  left: 1rem;
 
   z-index: 3;
 
