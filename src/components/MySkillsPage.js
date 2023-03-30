@@ -30,7 +30,7 @@ padding: 2rem;
 width: 30vw;
 height: 60vh;
 z-index:3;
-line-height: 1.5;
+line-height: 1;
 cursor: pointer;
 
 font-family: 'Ubuntu Mono',monospace;
@@ -96,7 +96,7 @@ const MySkillsPage = () => {
     <Design width={40} height={40} /> Designer
 </Title>
 <Description>
-I enjoy creating designs that are clean, basic, and uncomplicated.
+I enjoy creating designs that are clean, basic, and uncomplicated,uses various tools and techniques to develop and communicate my ideas, 
 </Description>
 <Description>
 <strong>I love to Design</strong>
@@ -113,7 +113,10 @@ I enjoy creating designs that are clean, basic, and uncomplicated.
 <strong>Tools</strong>
 <ul>
     <li>
-       Figma, canva, adobe
+       Figma
+    </li>
+    <li>
+        canva
     </li>
     
 </ul>
@@ -129,16 +132,30 @@ I am a solution-driven web developer who contributes to highly collaborative wor
 </Description>
 <Description>
 <strong>Skills</strong>
-<p>
-Html, Css, Js, React, Bootstrap, Tailwind, Three.js etc.
-</p>
+<li>
+Html/css/js,
+
+</li>
+<li>
+React,
+ 
+ 
+</li>
+<li>
+PHP,
+ Django
+</li>
 </Description>
 <Description>
 <strong>Tools</strong>
-<p>
-VScode, Github etc.
-</p>
+<li>
+    vscode
+</li>
+<li>
+    Github
+</li>
 </Description>
+
 
             </Main>
 
