@@ -152,7 +152,7 @@ const Main = () => {
                     transition: { type:'spring', duration: 1.5, delay:1}
                 }}
                 animate={{
-                    y:0,
+                    y:-2.5,
                     transition: { type:'spring', duration: 1.5, delay:1}
                 }}
                 whileHover={{scale: 1.1}}
@@ -165,11 +165,11 @@ const Main = () => {
             <BLOG to="/blog">
                 <motion.h2
                 initial={{
-                    y:-200,
+                    y:-600,
                     transition: { type:'spring', duration: 1.5, delay:1}
                 }}
                 animate={{
-                    y:0,
+                    y:-40,
                     transition: { type:'spring', duration: 1.5, delay:1}
                 }}
                 whileHover={{scale: 1.1}}
@@ -185,7 +185,7 @@ const Main = () => {
                     transition: { type:'spring', duration: 1.5, delay:1}
                 }}
                 animate={{
-                    y:0,
+                    y:10,
                     transition: { type:'spring', duration: 1.5, delay:1}
                 }}
                  whileHover={{scale: 1.1}}
