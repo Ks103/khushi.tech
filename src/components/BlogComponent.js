@@ -4,19 +4,20 @@ import React from "react";
 import styled from "styled-components";
 
 const Box = styled(motion.a)`
-  width: calc(10rem + 15vw);
   text-decoration: none;
-  height: 10rem;
-  padding: 1rem;
-  color: ${(props) => props.theme.text};
-  border: 2px solid ${(props) => props.theme.text};
-  backdrop-filter: blur(2px);
-  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
-  cursor: pointer;
-
-  display: flex;
-  flex-direction: column;
-  z-index: 5;
+    width: 65%;
+    height: 80%;
+    padding: 2.5rem;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    backdrop-filter: blur(2px);
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 1rem 0px;
+    cursor: pointer;
+    display: flex;
+    flex-flow: column-reverse wrap;
+    z-index: 5;
+    margin-left: 15%;
+    place-content: stretch space-around;
 
   &:hover {
     color: ${(props) => props.theme.body};
