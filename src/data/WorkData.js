@@ -3,7 +3,7 @@
 export const Work = [
      {
         id:1,
-        name:"Design Portfolio",
+        name:"Portfolio",
         description:"This is my design portfolio on figma , you can see my work by visiting the site",
         tags:["Figma"],
         
