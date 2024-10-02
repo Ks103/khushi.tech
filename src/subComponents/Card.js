@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import React from 'react'
 import { NavLink } from 'react-router-dom';
 import styled from 'styled-components';
-import { Github } from '../components/AllSvgs';
+import { Behance, Github } from '../components/AllSvgs';
 
 
 
@@ -97,7 +97,7 @@ const Item = {
 
 const Card = (props) => {
 
-    const {id, name, description, tags, demo, github} = props.data;
+    const {id, name, description, tags, demo, github, iconType} = props.data;
 
     return (
         <Box key={id} variants={Item}>
@@ -117,7 +117,11 @@ const Card = (props) => {
                     Visit
                 </Link>
                 <Git  href={github}  target="_blank">
-                    <Github width={30} height={30} />
+                    {iconType === 'behance' ? (
+                        <Behance width={30} height={30} />
+                    ) : (
+                        <Github width={30} height={30} />
+                    )}
                 </Git>
             </Footer>
         </Box>

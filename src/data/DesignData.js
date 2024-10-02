@@ -6,6 +6,7 @@ export const Design = [
        name:"Landing Page Design",
        description:"Landing page design of all topics: AI,Cloth,Blockchain,Saas Website",
        tags:["Figma"],
+       iconType: "behance",
        
        demo:"https://www.behance.net/gallery/209144509/Landing-Pages",
        
@@ -15,6 +16,7 @@ export const Design = [
        name:"Anthill Brandguide",
        description:"Brandguide lines of Anthill with color pallet, logo, website design",
        tags:["Figma","Adobe"],
+       iconType: "behance",
        
        demo:"https://www.behance.net/gallery/209145745/Anthill-Brandguide",
        
@@ -24,6 +26,7 @@ export const Design = [
        name:"RIDIVTECH Work",
        description:"Last internship work of ridiv tech, includes AILA,Litebite and Docpharma",
        tags:["Figma","Jira"],
+       iconType: "behance",
        
       
        demo:"https://www.behance.net/gallery/209146263/RidivTech"
@@ -34,6 +37,7 @@ export const Design = [
        description:"This is the freelance project of DOMS AU to make animated placement brochure for their college",
        tags:["Figma","Invision","Adobe"],
        
+       iconType: "behance",
        demo:"https://www.behance.net/gallery/209147507/DOMS-AU-Design",
     
        
@@ -43,7 +47,7 @@ export const Design = [
        name:"Swaami Yo",
        description:"Website design of Swaami Yo with the product page",
        tags:["figma"],
-       
+       iconType: "behance",
        demo:"https://www.behance.net/gallery/209146561/Swaami-Yo-website-design",
     //    github:"https://github.com/Ks103/githubfinder"
    },
@@ -52,7 +56,7 @@ export const Design = [
        name:"GBJ BUZZ",
        description:"Social Media Posters for GBJ BUZZ with graphics",
        tags:["Graphic","Figma"],
-       
+       iconType: "behance",
        demo:"https://www.behance.net/gallery/209146749/GBJ-BUZZ-post-design",
        
       
@@ -61,7 +65,7 @@ export const Design = [
        name:"CodeApto Product Design",
        description:"Last internship work of CodeApto with the whole responsiveness",
        tags:["figma"],
-       
+       iconType: "behance",
        demo:"https://www.behance.net/gallery/209147235/CodeApto-Design",
        
        
@@ -71,7 +75,7 @@ export const Design = [
        name:"Flexit",
        description:"It is a freelance project , includes branding,responseness,animation",
        tags:["figma","Invision","Graphics"],
-       
+       iconType: "behance",
        demo:"https://www.behance.net/gallery/209147743/Website-Design",
 
        
