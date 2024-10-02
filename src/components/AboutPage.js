@@ -72,9 +72,7 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        Currently pursuing a bachelor's degree in electronics
-
-and communication engineering from Shri Ramdeobaba College of Engineering and Management.
+      "I can build and design your ideas"
 Always ready to discover new things.
 <br /> <br/>
 Providing experience in the design, installation, testing, and maintenance of web systems. Skilled in a variety of platforms and languages. Capable of successfully managing oneself while working on solo tasks. 

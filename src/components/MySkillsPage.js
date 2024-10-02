@@ -116,7 +116,13 @@ I enjoy creating designs that are clean, basic, and uncomplicated,uses various t
        Figma
     </li>
     <li>
-        canva
+        Canva
+    </li>
+    <li>
+        Photoshop
+    </li>
+    <li>
+        Adobe XD
     </li>
     
 </ul>
