@@ -188,24 +188,9 @@ const Main = () => {
                     ACHIEVEMENTS
                 </motion.h2>
             </BLOG>
-            <WORK to="/work" click={+click}>
-                <motion.h2
-                initial={{
-                    y:-200,
-                    transition: { type:'spring', duration: 1.5, delay:1}
-                }}
-                animate={{
-                    y:10,
-                    transition: { type:'spring', duration: 1.5, delay:1}
-                }}
-                 whileHover={{scale: 1.1}}
-                whileTap={{scale: 0.9}}
-                >
-                    Frontend 
-                </motion.h2>
-            </WORK>
+            
             <DESIGN to="/design" click={+click}>
-                <motion.h2
+                <motion.h2 
                 initial={{
                     y:-200,
                     transition: { type:'spring', duration: 1.5, delay:1}
@@ -217,7 +202,7 @@ const Main = () => {
                  whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    Designs 
+                    Design Work
                 </motion.h2>
             </DESIGN>
             <BottomBar>

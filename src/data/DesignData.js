@@ -2,6 +2,36 @@
 
 export const Design = [
     {
+        id:1,
+        name:"Artus Website Design",
+        description:"Designed Artus website from scratch",
+        tags:["Figma"],
+        iconType: "behance",
+        
+        demo:"https://www.artusai.co/",
+        
+    },
+    {
+        id:1,
+        name:"VivahSahyog Redesign",
+        description:"VivahSahyog App Redesign",
+        tags:["Figma"],
+        iconType: "behance",
+        
+        demo:"https://www.figma.com/design/Kcvpem0CDAVjunLvwxI9Ya/Redesign-Vivahsahyog?m=auto&t=0C6yJBW790QePnzF-6",
+        
+    },
+    {
+        id:1,
+        name:"Virtual Pet Mockup",
+        description:"Virtual Pet lo-fi & Hi-fi mockup design",
+        tags:["Figma"],
+        iconType: "behance",
+        
+        demo:"https://www.figma.com/design/NQpNXBqkvxpPITBQnIUbYL/Virtual-Pet?m=auto&t=0C6yJBW790QePnzF-6",
+        
+    },
+    {
        id:1,
        name:"Landing Page Design",
        description:"Landing page design of all topics: AI,Cloth,Blockchain,Saas Website",

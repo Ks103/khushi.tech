@@ -1,7 +1,7 @@
 import React from 'react'
 import styled, { ThemeProvider } from 'styled-components'
 import {lightTheme} from './Themes';
-import { Design, Develope} from './AllSvgs';
+import { Design} from './AllSvgs';
 
 
 import LogoComponent from '../subComponents/LogoComponent';
@@ -107,6 +107,12 @@ I enjoy creating designs that are clean, basic, and uncomplicated,uses various t
     <li>
         Mobile Application
     </li>
+    <li>
+        BrandGuidelines
+    </li>
+    <li>
+        Pitch Decks
+    </li>
 </ul>
 </Description>
 <Description>
@@ -116,7 +122,7 @@ I enjoy creating designs that are clean, basic, and uncomplicated,uses various t
        Figma
     </li>
     <li>
-        Canva
+        Wix
     </li>
     <li>
         Photoshop
@@ -129,42 +135,7 @@ I enjoy creating designs that are clean, basic, and uncomplicated,uses various t
 </Description>
 
             </Main>
-            <Main>
-<Title>
-    <Develope width={40} height={40} /> Frontend Developer
-</Title>
-<Description>
-I am a solution-driven web developer who contributes to highly collaborative work environment and finding solutions. 
-</Description>
-<Description>
-<strong>Skills</strong>
-<li>
-Html/css/js,
-
-</li>
-<li>
-React,
- 
- 
-</li>
-<li>
-PHP,
- Django
-</li>
-</Description>
-<Description>
-<strong>Tools</strong>
-<li>
-    vscode
-</li>
-<li>
-    Github
-</li>
-</Description>
-
-
-            </Main>
-
+            
             <BigTitle text="SKILLS" top="80%" right="30%" />
 
         </Box>

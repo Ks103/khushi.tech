@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import React from "react";
 // import { NavLink } from 'react-router-dom'
 import styled from "styled-components";
-import {  Github, Twitter, Linkedin,Behance } from "../components/AllSvgs";
+import {  Github, Instagram, Linkedin,Behance } from "../components/AllSvgs";
 import { DarkTheme } from "../components/Themes";
 
 const Icons = styled.div`
@@ -56,9 +56,9 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://twitter.com/KhushiShroff2"}
+          href={"https://www.instagram.com/khushi.uiux/"}
         >
-          <Twitter
+          <Instagram
             width={25}
             height={25}
             fill={props.theme === "dark" ? DarkTheme.text : DarkTheme.body}

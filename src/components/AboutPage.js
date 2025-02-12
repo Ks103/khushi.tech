@@ -75,9 +75,9 @@ const AboutPage = () => {
       "I can build and design your ideas"
 Always ready to discover new things.
 <br /> <br/>
-Providing experience in the design, installation, testing, and maintenance of web systems. Skilled in a variety of platforms and languages. Capable of successfully managing oneself while working on solo tasks. 
+I have two years of experience in UI/UX design, with a strong background in creating designs across AI-generated platforms, blockchain, e-commerce, and various product-based applications. My expertise in Figma, combined with hands-on experience from multiple internships and freelancing projects, has allowed me to successfully deliver designs for over 10 clients.
 <br/> <br/>
-I'm curious about the entire frontend stack. Enjoy exploring new ideas and creating amazing creations. When you put your consciousness into anything, I feel it becomes an art form. You may contact me through social media.
+Additionally, my proficiency in frontend development further enhances my ability to create seamless and interactive user experiences, making me a strong candidate for this role. 
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />

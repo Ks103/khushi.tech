@@ -89,7 +89,7 @@ const DesignPage = () => {
           <Yin width={80} height={80} fill={DarkTheme.text} />
         </Rotate>
 
-        <BigTitlte text="DESIGN" top="10%" right="20%" />
+        <BigTitlte text="DESIGN" />
       </Box>
     </ThemeProvider>
   );
